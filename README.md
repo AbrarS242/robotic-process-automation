@@ -1,8 +1,5 @@
-# robotic-process-automation
-This program evaluates candidate routines for Robotic Process Automation
-
 # Program Overview #
-This program implements a very basic form of Robotics Process Automation. 
+This program evaluates candidate routines for Robotics Process Automation. 
 It analyses the input stream, identifying the initial variables of interest, actions (including the preconditions and effects of each action), 
 trace (composed of a sequence of actions) and candidate routines. 
 
