@@ -14,6 +14,5 @@ Stage 2 is very similar to Stage 1 as it also has to identify sub-sequences of t
 the sub-sequences identified this time can manipulate other Boolean variables, as long as those variables are returned to their initial state. 
 
 ## Note ##
-
 This program was written as an assignment for the subject COMP10002 Foundations of Algorithms at the University of Melbourne. The skeleton code has been written by 
 Artem Polyvyanyy (artem.polyvyanyy@unimelb.edu.au).
