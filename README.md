@@ -3,8 +3,16 @@ This project provides a command-line tool for automating the validation of candi
 
 ## Features
 - **Input Data Analysis:** Reads and analyzes input data, ensuring the validity of the input trace.
+
+![Input Data Analysis](https://github.com/AbrarS242/robotic-process-automation/blob/main/example_output/stage_0_output.PNG)
+
 - **Basic Routine Checking:** Performs a basic check of candidate routines by identifying sub-sequences of actions that produce the same cumulative effect as the routine.
+
+![Basic Routine Checking](https://github.com/AbrarS242/robotic-process-automation/blob/main/example_output/stage_1_output.PNG)
+
 - **Advanced Routine Checking:** Extends the checking process to allow identified sub-sequences to modify variable values not set by the candidate routine, ensuring that variables are restored to their original values after execution.
+
+![Advanced Routine Checking](https://github.com/AbrarS242/robotic-process-automation/blob/main/example_output/stage_2_output.PNG)
 
 ## Installation
 1. Clone the repository to your local machine.
