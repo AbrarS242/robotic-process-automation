@@ -20,7 +20,7 @@ This project provides a command-line tool for automating the validation of candi
 
 `gcc -o rpa_tool main_program.c` 
 
-4. Ensure that the executable file is accessible from the command line.
+3. Ensure that the executable file is accessible from the command line.
 
 ## Usage
 1. Prepare your input data following format specified below:
