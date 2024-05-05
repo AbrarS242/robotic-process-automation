@@ -2,9 +2,9 @@
 This project provides a command-line tool for automating the validation of candidate routines in Robotic Process Automation (RPA). RPA involves automating repetitive tasks by executing sequences of interactions with web and desktop applications. This tool helps identify patterns in executed activities that can be automated, streamlining workflow processes.
 
 ## Features
-- **Stage 0:** Reads and analyzes input data, ensuring the validity of the input trace.
-- **Stage 1:** Performs a basic check of candidate routines by identifying sub-sequences of actions that produce the same cumulative effect as the routine.
-- **Stage 2:** Extends the checking process to allow identified sub-sequences to modify variable values not set by the candidate routine, ensuring that variables are restored to their original values after execution.
+- **Input Data Analysis:** Reads and analyzes input data, ensuring the validity of the input trace.
+- **Basic Routine Checking:** Performs a basic check of candidate routines by identifying sub-sequences of actions that produce the same cumulative effect as the routine.
+- **Advanced Routine Checking:** Extends the checking process to allow identified sub-sequences to modify variable values not set by the candidate routine, ensuring that variables are restored to their original values after execution.
 
 ## Installation
 1. Clone the repository to your local machine.
