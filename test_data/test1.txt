@@ -6,6 +6,6 @@ z
 #
 ab:c:X:cf:b
 f::V:pq:
-fpq:b:U::pq
+fpq:b:U:b:pq
 #
 XVUVU
