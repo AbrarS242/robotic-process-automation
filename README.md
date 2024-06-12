@@ -44,6 +44,3 @@ This project provides a command-line tool for automating the validation of candi
 - It includes a summary of the input trace, its status (valid or invalid), and the validation results for candidate routines.
 - ASCII table representations of states and actions are provided.
 - The output also indicates the cumulative effect of routines and sub-sequences.
-
-## Note ##
-This program was written as an assignment The University of Melbourne. The skeleton code has been written by Artem Polyvyanyy (artem.polyvyanyy@unimelb.edu.au).
